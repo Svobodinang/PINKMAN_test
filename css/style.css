@@ -315,6 +315,9 @@ section{
     height: 220px;
     position: relative;
 }
+.media__block .vc{
+    width: 38px;
+}
 .media__block .date{
     opacity: 0.5;
     margin-top: 0;
